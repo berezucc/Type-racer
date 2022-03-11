@@ -4,3 +4,4 @@
  Implemented with pyautogui, pytesseract, open cv2.
  
  *Currently, uppercase letters are not recognized, so only 85% functionality*
+  ![](gif.gif)
